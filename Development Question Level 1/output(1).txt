@@ -1,0 +1,5 @@
+The sky is blue due to a phenomenon called **Rayleigh scattering**.  Sunlight is made up of all the colors of the rainbow.  When sunlight enters the Earth's atmosphere, it collides with tiny air molecules (mostly nitrogen and oxygen).  These molecules are much smaller than the wavelengths of visible light.
+
+Rayleigh scattering affects shorter wavelengths of light more strongly than longer wavelengths.  Blue and violet light have the shortest wavelengths, so they are scattered much more than the longer wavelengths like red and orange.  This scattered blue light is what we see when we look at the sky.
+
+While violet light is scattered even more than blue, our eyes are less sensitive to violet, and the sun emits slightly less violet light, resulting in a blue sky rather than a violet one.

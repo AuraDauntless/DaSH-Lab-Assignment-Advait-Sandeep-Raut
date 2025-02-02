@@ -1,0 +1,11 @@
+How to get selected in an interview?
+What is Git, and how do I use it?
+How do I write a simple Python script?
+What are IDEs, and which one should I use?
+How do I install Linux on my computer?
+What is Kubernetes?
+What is a virtual machine?
+How do I troubleshoot software installation issues?
+What is machine learning?
+What is a web server?
+How do I automate tasks using scripts?

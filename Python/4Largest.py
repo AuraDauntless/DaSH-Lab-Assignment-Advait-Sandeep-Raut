@@ -1,0 +1,20 @@
+a=int(input("Enter first number"))
+b=int(input("Enter second number"))
+c=int(input("Enter third number"))
+u=a-b
+v=a-c
+w=-u
+x=b-c
+y=-v
+z=-x
+d=0
+if(u>=0):
+    if(v>=0):
+        d=a
+if(w>=0):
+    if(x>=0):
+        d=b
+if(y>=0):
+    if(z>=0):
+        d=c
+print(d)

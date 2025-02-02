@@ -1,0 +1,8 @@
+Inputs
+C:\Users\advai\Desktop\DaSH Lab 2nd Attempt\Development Question Level 2\input.txt
+C:\Users\advai\Desktop\DaSH Lab 2nd Attempt\Development Question Level 2\input1.txt
+C:\Users\advai\Desktop\DaSH Lab 2nd Attempt\Development Question Level 2\input2.txt
+Outputs
+C:\Users\advai\Desktop\DaSH Lab 2nd Attempt\Development Question Level 2\Output Folder\multiplepromptsoutput.json
+C:\Users\advai\Desktop\DaSH Lab 2nd Attempt\Development Question Level 2\Output Folder\multiplepromptsoutput1.json
+C:\Users\advai\Desktop\DaSH Lab 2nd Attempt\Development Question Level 2\Output Folder\multiplepromptsoutput2.json

@@ -1,0 +1,6 @@
+import socket
+name=input("What's your name?")
+client_socket=socket.socket()
+client_socket.connect(('localhost',9999))
+client_socket.send(bytes(name,'utf-8'))
+print(client_socket.recv(102444).decode()) 

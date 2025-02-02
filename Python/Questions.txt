@@ -1,0 +1,138 @@
+**100 Python Coding Questions (Beginner to Advanced)**
+
+### **Beginner Level (Questions 1-30)**
+Focus: Basics of Python, if-else, loops, functions, and basic I/O.
+
+1. Write a Python program to print "Hello, World!".
+2. Take two numbers as input and print their sum.
+3. Check if a number is odd or even.
+4. Write a program to find the largest of three numbers.
+5. Print all numbers from 1 to 50.
+6. Write a program to calculate the factorial of a number.
+7. Take a string input and print it in reverse.
+8. Check if a given year is a leap year.
+9. Write a program to calculate the sum of the digits of a number.
+10. Generate the first 10 Fibonacci numbers.
+11. Write a program to find the greatest common divisor (GCD) of two numbers.
+12. Count the number of vowels in a string.
+13. Write a program to print a multiplication table for any number.
+14. Find the largest and smallest numbers in a list.
+15. Write a program to check if a number is a palindrome.
+16. Write a program to calculate the power of a number using a loop.
+17. Check if a string is a palindrome.
+18. Write a program to find the sum of all even numbers between 1 and 100.
+19. Write a program to convert Celsius to Fahrenheit.
+20. Take a number as input and check if it is positive, negative, or zero.
+21. Write a program to find the product of all digits of a number.
+22. Create a program to swap two numbers without using a temporary variable.
+23. Write a program to find the average of a list of numbers.
+24. Write a program to find the length of a string without using built-in functions.
+25. Check if a character is a vowel or a consonant.
+26. Write a program to find the sum of all prime numbers between 1 and 100.
+27. Write a program to find the second largest number in a list.
+28. Create a program to count the occurrences of a character in a string.
+29. Write a program to calculate the area and perimeter of a rectangle.
+30. Create a program to reverse the words in a sentence.
+
+---
+
+### **Intermediate Level (Questions 31-70)**
+Focus: Lists, dictionaries, string manipulations, and basic algorithms.
+
+31. Write a program to sort a list of numbers in ascending order.
+32. Find the second largest number in a list.
+33. Write a program to remove duplicates from a list.
+34. Create a dictionary from two lists (keys and values).
+35. Count the frequency of each word in a string.
+36. Write a program to transpose a matrix.
+37. Implement a binary search algorithm.
+38. Write a program to merge two sorted lists.
+39. Find all prime numbers in a given range.
+40. Write a program to rotate a list to the right by `k` steps.
+41. Write a program to check if two strings are anagrams.
+42. Implement Caesar cipher encryption.
+43. Find the intersection of two lists.
+44. Write a program to flatten a nested list.
+45. Create a function to compute the nth Fibonacci number using recursion.
+46. Write a program to calculate the dot product of two vectors.
+47. Find the longest word in a given sentence.
+48. Write a program to find all substrings of a given string.
+49. Write a program to check if a list is sorted.
+50. Implement a simple calculator using functions.
+51. Write a program to find the union of two lists.
+52. Count the occurrences of each element in a list.
+53. Write a program to reverse a list without using the reverse() function.
+54. Write a program to convert a decimal number to binary.
+55. Create a program to find the most frequent element in a list.
+56. Implement a stack using a list.
+57. Write a program to generate all permutations of a string.
+58. Write a program to check if a string is a valid email address.
+59. Create a program to solve a quadratic equation.
+60. Write a program to calculate the sum of diagonal elements in a matrix.
+61. Write a program to count the number of words in a string.
+62. Implement a queue using a list.
+63. Write a program to calculate the LCM of two numbers.
+64. Create a program to check if a list contains duplicate elements.
+65. Write a program to remove all occurrences of a specific element from a list.
+66. Implement the bubble sort algorithm.
+67. Write a program to find the longest common prefix among a list of strings.
+68. Create a program to calculate the number of trailing zeros in a factorial.
+69. Write a program to generate Pascal’s triangle.
+70. Write a program to count the number of unique characters in a string.
+
+---
+
+### **Advanced Level (Questions 71-100)**
+Focus: Algorithms, recursion, file handling, and object-oriented programming.
+
+71. Write a program to implement quicksort.
+72. Write a function to check if a string contains balanced parentheses.
+73. Solve the "8 Queens" problem using backtracking.
+74. Write a program to find the shortest path in a graph using Dijkstra’s algorithm.
+75. Write a program to read a file and count the number of lines, words, and characters.
+76. Create a class for a rectangle with methods to calculate area and perimeter.
+77. Write a program to solve the Tower of Hanoi problem.
+78. Write a program to implement a stack and its operations.
+79. Write a program to find the maximum sum of a subarray using Kadane’s algorithm.
+80. Implement merge sort.
+81. Write a program to check if a given binary tree is a binary search tree (BST).
+82. Create a program to solve the knapsack problem using dynamic programming.
+83. Write a program to simulate a basic ATM machine with deposit and withdrawal functions.
+84. Implement a chatbot using basic string matching.
+85. Write a program to solve a Sudoku puzzle.
+86. Write a program to count the number of connected components in a graph.
+87. Implement a priority queue using a heap.
+88. Write a program to find the longest increasing subsequence in a list.
+89. Create a class for a bank account with deposit, withdrawal, and balance inquiry methods.
+90. Write a program to solve the N-Queens problem using backtracking.
+91. Implement a program to find the median of a stream of numbers.
+92. Write a program to generate all subsets of a set.
+93. Create a program to evaluate a postfix expression.
+94. Write a program to implement depth-first search (DFS) in a graph.
+95. Write a program to implement breadth-first search (BFS) in a graph.
+96. Implement a trie for storing and searching words efficiently.
+97. Write a program to calculate the edit distance between two strings using dynamic programming.
+98. Create a program to find all articulation points in a graph.
+99. Write a program to solve the traveling salesman problem using dynamic programming.
+100. Implement a program to find the maximum flow in a network using the Ford-Fulkerson algorithm.
+
+x=0
+a=1
+b=1
+c=0
+while(a<=n):
+    while(b<=a):  
+        if(a%b==0):
+            c+=1
+        b+=1
+    if(c==2):
+        x=x+a
+    a+=1
+
+print(x)
+
+
+
+ cd federated-learning-based-systems-level-1
+        pip install -e .
+        flwr run
